@@ -15,13 +15,13 @@ it  테스터 과정입니다.
 
 
 ## 반려동물 시스템 발표자료
-[네이버검색](https://www.naver.com).<br>
-[동물병원 자료](https://github.com/9youn3-sys/hello-world/edit/main/README.md).<br>
+[네이버검색](https://www.naver.com)<br>
+[동물병원 자료](https://github.com/9youn3-sys/hello-world/edit/main/README.md)<br>
 
 [프로젝트](/project.pptx.)
 
-[글씨1](주소).<br>
-[글씨2](파일).<br>
+[글씨1](주소)<br>
+[글씨2](파일)<br>
 
 
 ## 시스템 시연 영상
